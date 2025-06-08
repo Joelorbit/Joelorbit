@@ -1,3 +1,11 @@
+
+
+
+https://github.com/user-attachments/assets/92788f76-46ae-4656-9f92-0f02304d11d3
+
+
+
+
 # 💫 About Me:
 I'm currently a student at Adama Science and Technology.<br>Creating things to solve something.<br>Fun about me is that I am cool!
 
