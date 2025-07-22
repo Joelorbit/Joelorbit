@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-I'm currently a software engineering student at Adama Science and Technology.<br>Creating things to solve something.<br>Fun about me is that I am cool!
+I'm currently a software engineering student at Adama Science and Technology.<br>Creating things to solve something.<br> crazy thing about me is that  am cool!
 
 
 ## 🌐 Socials:
