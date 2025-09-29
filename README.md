@@ -10,8 +10,10 @@
   ⚡ Fun fact: Am cool!
 </p>
 
-![Eyuel GitHub stats](https://github-readme-stats.vercel.app/api?username=joelorbit&theme=midnight-purple&show_icons=true)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joelorbit&theme=aura-dark&border_radius=70" alt="GitHub Streak" /></a>
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=joelorbit&theme=midnight-purple&show_icons=true" alt="GitHub Stats" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=joelorbit&theme=aura-dark&border_radius=70" alt="GitHub Streak" width="400"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/joelorbit/github-readme-stats">
