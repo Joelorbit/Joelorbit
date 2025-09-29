@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=I'm+Eyuel&fontSize=40&fontColor=ffffff&fontAlignY=35)
 
 <!-- ✨ Intro Section -->
-<h2 align="center">🚀 Developer | ☁️ Cloud Enthusiast | 🎨 Creator</h2>
+<h2 align="center">🚀 Developer | ☁️ Art Enthusiast | 🎨 Creator</h2>
 
 <p align="center">
   💡 Exploring: <b>Web Development</b> and <b>AI</b><br>
