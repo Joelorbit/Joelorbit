@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/joelorbit/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelorbit&layout=donut-vertical" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelorbit&layout=compact" alt="Top Langs" />
   </a>
 </p>
 
