@@ -1,5 +1,7 @@
-<!-- 🎨 Custom Visual Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=I'm+Eyuel&fontSize=40&fontColor=ffffff&fontAlignY=35)
+<h1 align="center" style="background: linear-gradient(90deg, #00C9FF, #92FE9D);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: Poppins, sans-serif; font-size: 65px;">
+  I'm Eyuel 
+</h1>
 
 <!-- ✨ Intro Section -->
 <h2 align="center">Developer |  Art Enthusiast |  Creative</h2>
