@@ -4,7 +4,7 @@
 </h1>
 
 <!-- ✨ Intro Section -->
-<h2 align="center">Developer |  Art Enthusiast |  Creative</h2>
+<h2 align="center">Developing |  Finding my passion </h2>
 
 <p align="center">
    Exploring: <b>Web Development</b> and <b>AI</b><br>
