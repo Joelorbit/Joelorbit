@@ -9,7 +9,7 @@
 <p align="center">
    Exploring: <b>Web Development</b> and <b>AI</b><br>
    Currently learning: <b>Full-stack</b><br>
-   Fun fact: I'm cool!
+   Fun fact: I'm cool.
 </p>
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
