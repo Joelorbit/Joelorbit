@@ -1,11 +1,7 @@
-<p align="center">
-  <a href="https://github.com/Joelorbit"><img src="https://img.shields.io/badge/GitHub-@joelorbit-181717?logo=github&style=for-the-badge" alt="GitHub"/></a>
-  <a href="https://github.com/Joelorbit/Joelorbit/stargazers"><img src="https://img.shields.io/github/stars/Joelorbit/Joelorbit?style=for-the-badge&logo=github" alt="Stars"/></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Joelorbit.Joelorbit" alt="Visitors"/>
-</p>
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="cool" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnV6OHI5NDY5eHJxNTU3YTZxNXF5c2tyZmhtdTYwaDg0am54eHNmaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/llKJGxQ1ESmac/giphy.gif" alt="cool" width="200"/>
 </p>
 
 <h1 align="center" style="background: linear-gradient(90deg, #00C9FF, #92FE9D);
@@ -36,9 +32,9 @@
 
 <p align="center">
   <strong>Connect with me</strong><br>
-  <a href="https://github.com/Joelorbit">GitHub</a> · <a href="https://www.linkedin.com/in/joelorbit">LinkedIn</a> · <a href="mailto:you@example.com">Email</a>
+  <a href="https://github.com/Joelorbit">GitHub</a> · <a href="https://www.linkedin.com/in/joelorbit">LinkedIn</a> · <a href="mailto:abitieyuel@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <em>Made with ❤️ — keep building and experimenting.</em>
+  <em>Made with ❤️ — keep building and experimenting......love ya!</em>
 </p>
