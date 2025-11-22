@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnV6OHI5NDY5eHJxNTU3YTZxNXF5c2tyZmhtdTYwaDg0am54eHNmaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/llKJGxQ1ESmac/giphy.gif" alt="cool" width="200"/>
 </p>
