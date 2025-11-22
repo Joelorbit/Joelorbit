@@ -13,8 +13,8 @@
 <h2 align="center">Developing | Finding my passion </h2>
 
 <p align="center">
-   Exploring: <b>Web Development</b> and <b>AI</b><br>
-   Currently learning: <b>Full-stack</b><br>
+   Exploring: <b>Web Development</b> and <b>Design</b><br>
+   Currently learning: <b>Full-stack Develpoment</b><br>
    Fun fact: I'm cool.
 </p>
 
