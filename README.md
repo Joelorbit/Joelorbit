@@ -25,7 +25,7 @@
 
 <p align="center">
   <strong>Connect with me</strong><br>
-  <a href="https://github.com/Joelorbit">GitHub</a> · <a href="https://www.linkedin.com/in/joelorbit">LinkedIn</a> · <a href="mailto:abitieyuel@gmail.com">Email</a>
+  <a href="https://www.instagram.com/joelorbit">Instagram</a> · <a href="https://www.linkedin.com/in/joelorbit">LinkedIn</a> · <a href="mailto:abitieyuel@gmail.com">Email</a>
 </p>
 
 <p align="center">
