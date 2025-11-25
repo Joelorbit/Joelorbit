@@ -15,11 +15,6 @@
    Currently learning: <b>Full-stack Develpoment</b><br>
    Fun fact: I'm cool.
 </p>
-
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelorbit&theme=onedark&show_iconmerkos=true" alt="GitHub Stats" width="400"/>
-</p>
-
 <p align="center">
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelorbit&hide_progress=true"/>
