@@ -4,7 +4,7 @@
 
 <h1 align="center" style="background: linear-gradient(90deg, #00C9FF, #92FE9D);
   -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: Poppins, sans-serif; font-size: 65px;">
-  I am Eyuel 
+  I am Eyuel.
 </h1>
 
 <!-- ✨ Intro Section -->
