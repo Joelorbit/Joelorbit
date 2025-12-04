@@ -15,13 +15,8 @@
    Currently learning: <b>Full-stack Develpoment</b><br>
    Fun fact: I'm cool.
 </p>
-<p align="center">
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelorbit&hide_progress=true"/>
-  </a>
-</p>
 
-<hr/>
+
 
 <p align="center">
   <strong>Connect with me</strong><br>
