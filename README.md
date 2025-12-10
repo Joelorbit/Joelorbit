@@ -8,7 +8,7 @@
 </h1>
 
 <!-- ✨ Intro Section -->
-<h2 align="center">Developing (with Gpt) || Finding my passion </h2>
+<h2 align="center">Developing || Finding my passion </h2>
 
 <p align="center">
    Exploring: <b>Web Development</b> and <b>Design</b><br>
@@ -24,5 +24,5 @@
 </p>
 
 <p align="center">
-  <em>Made with ❤️ — keep building and experimenting......love ya!</em>
+  <em>Made with ❤️ — keep experimenting......love ya!</em>
 </p>
