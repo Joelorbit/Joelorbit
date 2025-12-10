@@ -4,10 +4,8 @@
 
 <h1 align="center" style="background: linear-gradient(90deg, #00C9FF, #92FE9D);
   -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: Poppins, sans-serif; font-size: 65px;">
-  I am Eyuel.
+  I am Eyuኤል
 </h1>
-
-<!-- ✨ Intro Section -->
 <h2 align="center">Developing || Finding my passion </h2>
 
 <p align="center">
@@ -15,15 +13,10 @@
    Currently learning: <b>Full-stack Develpoment</b><br>
    Fun fact: I'm cool.
 </p>
-
-
-
 <p align="center">
   <strong>Connect with me</strong><br>
   <a href="https://www.instagram.com/joelorbit">Instagram</a> · <a href="https://www.linkedin.com/in/joelorbit">LinkedIn</a> · <a href="mailto:abitieyuel@gmail.com">Email</a>
 </p>
-
-<!-- Languages icons added by Copilot -->
 <p align="center">
   <strong>I work with</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
@@ -36,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" />
 </p>
-
 <p align="center">
-  <em>Made with ❤️ — keep experimenting......love ya!</em>
+  <em>Made with ❤️ by Eyuel.</em>
 </p>
