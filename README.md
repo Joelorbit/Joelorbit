@@ -6,10 +6,9 @@
   -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: Poppins, sans-serif; font-size: 65px;">
   I am Eyuኤል
 </h1>
-<h2 align="center">Developing || Finding my passion </h2>
+<h2 align="center">Developing</h2>
 
 <p align="center">
-   Exploring: <b>Web Development</b> and <b>Design</b><br>
    Currently learning: <b>Full-stack Develpoment</b><br>
    Fun fact: I'm cool.
 </p>
@@ -29,6 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" />
 </p>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=jh764w2n4gh0eggyvlbbyq3by&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jh764w2n4gh0eggyvlbbyq3by&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+  </a>
+</p>
+
 <p align="center">
   <em>Made with ❤️ by Eyuel.</em>
 </p>
