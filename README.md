@@ -37,9 +37,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelorbit&layout=compact" />
-</p>
-
-<p align="center">
   <em>Made with ❤️ by Eyuel.</em>
 </p>
