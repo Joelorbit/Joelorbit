@@ -1,12 +1,12 @@
 <h1 align="center" style="background: linear-gradient(90deg, #00C9FF, #92FE9D);
   -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: Poppins, sans-serif; font-size: 65px;">
-  I am Eyuኤል
+  I'm Eyuኤል
 </h1>
 
 <h2 align="center">Developing</h2>
 
 <p align="center">
-   Currently learning: <b>Full-stack Development.</b><br>
+   Currently learning: <b>My-self</b><br>
    Fun fact: I'm cool.
 </p>
 
