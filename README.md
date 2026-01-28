@@ -6,7 +6,7 @@
 <h2 align="center">Developing</h2>
 
 <p align="center">
-   Currently learning: <b>Full-stack Dev</b><br>
+   Currently learning: <b>Full-stack Development</b><br>
    Fun fact: I'm cool.
 </p>
 
