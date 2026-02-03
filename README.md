@@ -12,7 +12,7 @@
 
 <p align="center" style="font-family: 'Poppins', sans-serif; font-size: 1.1rem; line-height: 1.6;">
    Currently learning: <b>Full-stack Development</b><br>
-   Fun fact: I'm cool, but weird.
+   Fun fact: I'm cool.
 </p>
 
 <p align="center" style="font-family: 'Poppins', sans-serif; margin-top: 1.2em;">
