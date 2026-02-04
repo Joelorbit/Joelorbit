@@ -44,7 +44,3 @@
          style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
   </a>
 </p>
-
-<p align="center" style="font-family: 'Poppins', sans-serif; margin-top: 2em; font-size: 0.9rem; color: #777;">
-  <em>Made with ❤️ by Eyuel.</em>
-</p>
