@@ -5,7 +5,7 @@
   font-family: 'Poppins', sans-serif;
   font-size: clamp(2rem, 8vw, 65px);
   margin-bottom: 0.5em;">
-  I'm Eyuኤል
+  I am Eyuኤል
 </h1>
 
 <h2 align="center" style="font-family: 'Poppins', sans-serif; margin-top: 0;">Developing</h2>
