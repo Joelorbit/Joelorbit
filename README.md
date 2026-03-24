@@ -11,7 +11,7 @@
 <h2 align="center" style="font-family: 'Poppins', sans-serif; margin-top: 0;">Developing</h2>
 
 <p align="center" style="font-family: 'Poppins', sans-serif; font-size: 1.1rem; line-height: 1.6;">
-   Currently learning: <b>Full-stack Development.</b><br>
+   Currently learning: <b>Full-stack Development</b><br>
    Fun fact: I am Cool.
 </p>
 
