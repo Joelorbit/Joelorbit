@@ -37,10 +37,3 @@
   </span>
 </p>
 
-<p align="center" style="margin-top: 2em; max-width: 100%; overflow-x: auto;">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=jh764w2n4gh0eggyvlbbyq3by&redirect=true" target="_blank" rel="noopener noreferrer">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jh764w2n4gh0eggyvlbbyq3by&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark"
-         alt="Spotify is currently playing " 
-         style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-  </a>
-</p>
