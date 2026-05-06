@@ -1,65 +1,125 @@
-## I am Eyuኤል
-
-Full-stack Developer | Currently learning advanced development practices
-
----
-
-### ABOUT
-
-I am a passionate developer focused on building clean, efficient applications. I work across the full stack with emphasis on modern web technologies and system design.
-
-Currently learning: Full-stack Development
-
----
-
-### TECH STACK
-
-**Frontend**
-- HTML5 | CSS3 | JavaScript
-
-**Frontend Framework**
-- React
-
-**Backend & Runtime**
-- Node.js
-
-**Databases**
-- MongoDB | MySQL
-
-**Languages**
-- JavaScript | Java | C++
-
-**Tools & Platforms**
-- Git | GitHub
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║        🎬 JOELORBIT: THE FULL-STACK DEVELOPER STORY 🎬       ║
+║                                                               ║
+║                    Starring: Eyuኤል                            ║
+║                     Director: Passion & Code                  ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-### LANGUAGE PROFICIENCY
+## 🎥 ROLL THE CREDITS
 
-Based on repositories and projects:
+**Lead Developer** | **Full-Stack Architect** | **Code Visionary**
 
-| Language | Proficiency |
-|----------|-------------|
-| JavaScript | 35% |
-| Java | 28% |
-| HTML | 18% |
-| CSS | 12% |
-| C++ | 7% |
+> _"Every line of code is a frame in the movie of creation."_
 
 ---
 
-### GITHUB STATISTICS
+## 🎞️ ACT I: THE ORIGIN STORY
 
-[![Joelorbit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joelorbit&show_icons=true&theme=default)](https://github.com/Joelorbit)
+```
+A passionate full-stack developer on a mission to craft clean,
+efficient, and breathtaking applications. Specializing in modern
+web technologies and elegant system design. Currently mastering
+the art of advanced development practices.
+```
+
+**In Development**: Advanced Full-Stack Techniques 🚀
 
 ---
 
-### CONNECT
+## 🎬 ACT II: THE TECHNICAL ARSENAL
 
-Instagram: https://www.instagram.com/joelorbit  
-LinkedIn: https://www.linkedin.com/in/joelorbit  
-Email: abitieyuel@gmail.com
+### 🎨 **THE VISUAL REALM** (Frontend)
+
+```
+┌─────────────────────────────────────┐
+│ HTML5     ███████████░░ Structural  │
+│ CSS3      ███████████░░ Styling     │
+│ JavaScript████████████░ Interactive │
+└─────────────────────────────────────┘
+```
+
+- **React Framework** ⚛️ - Component-driven excellence
+
+### ⚙️ **THE ENGINE ROOM** (Backend)
+
+```
+┌─────────────────────────────────────┐
+│ Node.js   ████████████░ Runtime      │
+│ JavaScript████████████░ Language    │
+└─────────────────────────────────────┘
+```
+
+### 💾 **THE MEMORY VAULT** (Databases)
+
+```
+┌─────────────────────────────────────┐
+│ MongoDB   ████████░░░░ NoSQL Magic   │
+│ MySQL     ███████░░░░░ Relational   │
+└─────────────────────────────────────┘
+```
+
+### 🛠️ **TOOLKIT & INSTRUMENTS**
+
+| Tool          | Purpose                  |
+| ------------- | ------------------------ |
+| 🐙 Git/GitHub | Version Control Mastery  |
+| 💻 JavaScript | The Universal Language   |
+| ☕ Java       | Enterprise Power         |
+| ⚡ C++        | System Level Performance |
 
 ---
 
-Last updated: 2026-05-06
+## 🏆 ACT III: SKILL PERFORMANCE RATINGS
+
+### **Language Proficiency Timeline**
+
+```
+JavaScript  ████████████████░░░░░░░░░░░░░  35% 🥇
+Java        ██████████████░░░░░░░░░░░░░░░░  28% 🥈
+HTML        ██████████░░░░░░░░░░░░░░░░░░░░  18% 🥉
+CSS         ████████░░░░░░░░░░░░░░░░░░░░░░  12% ⭐
+C++         █████░░░░░░░░░░░░░░░░░░░░░░░░░░  7%  ✨
+```
+
+---
+
+## 📊 **SCENE: THE GITHUB CHRONICLE**
+
+[![Joelorbit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joelorbit&show_icons=true&theme=radical&hide_border=true)](https://github.com/Joelorbit)
+
+---
+
+## 🎤 **THE FINAL SCENE: CONNECT WITH THE CREATOR**
+
+```
+╔════════════════════════════════════════╗
+║        🌐 FIND ME IN THE SPOTLIGHT    ║
+╠════════════════════════════════════════╣
+║  📸 Instagram:  @joelorbit             ║
+║  💼 LinkedIn:   /in/joelorbit          ║
+║  📧 Email:      abitieyuel@gmail.com   ║
+╚════════════════════════════════════════╝
+```
+
+**[👉 Visit on Instagram](https://www.instagram.com/joelorbit)**  
+**[👉 Connect on LinkedIn](https://www.linkedin.com/in/joelorbit)**  
+**[👉 Send an Email](mailto:abitieyuel@gmail.com)**
+
+---
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║                    🎬 END OF SCENE 🎬                         ║
+║                                                               ║
+║                 Last Updated: May 7, 2026                     ║
+║              "The Story Continues... Stay Tuned!"             ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
