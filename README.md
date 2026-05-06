@@ -30,7 +30,11 @@ CSS         ████████░░░░░░░░░░░░░░�
 C++         █████░░░░░░░░░░░░░░░░░░░░░░░░░░  7%  ✨
 ```
 
-**Tech**: React • Node.js • MongoDB • MySQL • Git
+---
+
+## 📊 **SCENE: THE GITHUB CHRONICLE**
+
+[![Joelorbit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joelorbit&show_icons=true&theme=radical&hide_border=true)](https://github.com/Joelorbit)
 
 ---
 
