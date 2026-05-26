@@ -8,7 +8,7 @@
   I am Eyuኤል
 </h1>
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif; margin-top: 0;">Developing</h2>
+<h2 align="center" style="font-family: 'Poppins', sans-serif; margin-top: 0;">Software Enginner</h2>
 <p align="center" style="font-family: 'Poppins', sans-serif; margin-top: 1.2em;">
   <strong>Connect with me</strong><br>
   <a href="https://www.instagram.com/joelorbit" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #00C9FF; margin: 0 0.5em;">Instagram</a> · 
