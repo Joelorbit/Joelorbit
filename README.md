@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=joelorbit)
 # Eyuel Getachew
 
 Software Engineering Student | Full-Stack Developer
@@ -10,9 +11,9 @@ Software Engineering Student | Full-Stack Developer
 
 ## Stack
 
-* JavaScript, Java, C++, SQL, Python, Php
+* JavaScript(Also type), Java, C++, SQL, Python, Php
 * React, HTML, CSS, Little bit svelte
-* Node.js, Express.js
+* Node.js, Express.js, Django
 * MySQL, MongoDB
 * Git, GitHub & trying Devops
 
