@@ -15,7 +15,7 @@ Software Engineering Student | Full-Stack Developer
 * React, HTML, CSS, Little bit svelte
 * Node.js, Express.js, Django
 * MySQL, MongoDB
-* Git, GitHub & trying Devops
+* Git, GitHub 
 
 ## Links
 
