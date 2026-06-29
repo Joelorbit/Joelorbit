@@ -19,7 +19,7 @@ Software Engineering Student | Full-Stack Developer
 
 ## Links
 
-* [LinkedIn: linkedin.com/in/joelorbit](http://linkedin.com/in/joelorbit])
-* [GitHub: github.com/Joelorbit](http://github.com/Joelorbit)
-* [Instagram: instagram.com/joelorbit](http://instagram.com/joelorbit)
+* LinkedIn: [linkedin.com/in/joelorbit](https://www.linkedin.com/in/joelorbit)
+* GitHub:[github.com/Joelorbit](http://github.com/Joelorbit)
+* Instagram:[instagram.com/joelorbit](http://instagram.com/joelorbit)
 * Email: [abitieyuel@gmail.com](mailto:abitieyuel@gmail.com)
