@@ -11,7 +11,7 @@ Software Engineering Student | Full-Stack Developer
 
 ## Stack
 
-* JavaScript(Also type), Java, C++, SQL, Python, Php
+* JavaScript(Also Type), Java, C++, SQL, Python, Php
 * React, HTML, CSS, Little bit svelte
 * Node.js, Express.js, Django
 * MySQL, MongoDB
