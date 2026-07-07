@@ -4,7 +4,7 @@
 Software Engineering Student | Full-Stack Developer
 
 ## About
-* Intern at Addis-pay
+* Working at Addis-pay
 * Software Engineering student at Adama Science and Technology University
 * Building web applications and software solutions.
 * Interested in backend systems, full-stack development, and startups
