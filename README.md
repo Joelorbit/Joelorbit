@@ -11,11 +11,11 @@ Software Engineering Student | Full-Stack Developer | learning Ai
 
 ## Stack
 
-* JavaScript(Also Type), Java, C++, SQL, Python, Php
+* JavaScript(Also Type), Java, C++, SQL, Python, Php, Go
 * React, HTML, CSS, Little bit svelte
 * Node.js, Express.js, Django
-* MySQL, MongoDB
-* Git, GitHub 
+* MySQL, MongoDB, Reddis
+* Git, GitHub
 
 ## Links
 
