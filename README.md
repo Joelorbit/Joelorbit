@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=joelorbit)
 # Eyuel Getachew
 
-Software Engineering Student | Full-Stack Developer | learning Ai
+Software Engineering Student | Full-Stack Developer | leveraging Ai
 
 ## About
 * Working at Addis-pay
