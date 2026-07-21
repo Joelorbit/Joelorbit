@@ -11,7 +11,7 @@ Software Engineering Student | Full-Stack Developer | leveraging Ai
 
 ## Stack
 
-* JavaScript(Also Type), Java, C++, SQL, Python, Php, Go
+* JavaScript(Also Type), Java, C++, SQL, Python, Php, Go, C
 * React, HTML, CSS, Little bit svelte
 * Node.js, Express.js, Django
 * MySQL, MongoDB, Reddis
