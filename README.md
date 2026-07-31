@@ -5,9 +5,7 @@ Software Engineering Student | Full-Stack Developer | leveraging Ai
 
 ## About
 * Working at Addis-pay
-* Software Engineering student at Adama Science and Technology University
-* Building web applications and software solutions.
-* Interested in backend systems, full-stack development, and startups
+* Building web applications and softwares.
 
 ## Stack
 
@@ -15,7 +13,7 @@ Software Engineering Student | Full-Stack Developer | leveraging Ai
 * React, HTML, CSS, Little bit svelte
 * Node.js, Express.js, Django
 * MySQL, MongoDB, Reddis
-* Git, GitHub
+* Git, GitHub, Docker
 
 ## Links
 
