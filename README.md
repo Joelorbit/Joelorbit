@@ -23,11 +23,6 @@ I'm a software engineer based in Ethiopia, currently building things at Addis-pa
 - Databases and caches with MySQL, MongoDB and Redis
 - The occasional Neovim config rabbit hole
 
-**Currently learning**
-
-- AI / ML foundations and RAG applications
-- Systems and performance engineering
-
 ### GitHub
 <p align="center">
   <img src="/metrics.plugin.languages.svg" alt="Most used languages" width="49%" />
