@@ -1,4 +1,6 @@
---i will upload my thing here!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joelorbit&color=1f6feb&style=flat-square" alt="Profile views" />
+</p>
 <p align="center">
   <img alt="banner" width="800" src="PLACE_YOUR_GIF_URL_HERE" />
 </p>
@@ -14,8 +16,6 @@
   <a href="mailto:abitieyuel@gmail.com"><img src="https://img.shields.io/badge/Email-abitieyuel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
 I'm a software engineer based in Ethiopia, currently building things at Addis-pay. I work on web applications end to end and I'm getting deeper into AI. Always learning, always shipping.
 
 **What I do**
@@ -30,28 +30,12 @@ I'm a software engineer based in Ethiopia, currently building things at Addis-pa
 - AI / ML foundations and RAG applications
 - Systems and performance engineering
 
----
-
 ### GitHub
-
-<p align="center">
-  <img src="/github-metrics.svg" alt="GitHub metrics" width="98%" />
-</p>
-
 <p align="center">
   <img src="/metrics.plugin.languages.svg" alt="Most used languages" width="49%" />
-  <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="49%" />
-</p>
-
 <p align="center">
   <img src="/metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" width="98%" />
 </p>
-
-<p align="center">
-  <img src="/metrics.plugin.habits.svg" alt="Coding habits" width="98%" />
-</p>
-
----
 
 ### Stack
 
@@ -61,7 +45,6 @@ I'm a software engineer based in Ethiopia, currently building things at Addis-pa
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -73,10 +56,6 @@ I'm a software engineer based in Ethiopia, currently building things at Addis-pa
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joelorbit&color=1f6feb&style=flat-square" alt="Profile views" />
-</p>
