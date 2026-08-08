@@ -14,7 +14,7 @@
   <a href="mailto:abitieyuel@gmail.com"><img src="https://img.shields.io/badge/Email-abitieyuel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-I'm a software engineer based in Ethiopia, currently building things at Addis-pay. I work on web applications end to end and I'm getting deeper into AI. Always learning, always shipping.
+I'm a software engineer based in Ethiopia, currently building things at Addis-pay. I work on web applications end to end and I'm getting deeper into Backend. Always learning, always shipping.
 
 **What I do**
 
