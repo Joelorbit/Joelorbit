@@ -15,8 +15,8 @@
 
 <p align="center">
   <a href="https://eyuel.me"><img alt="Website" width="32" src="https://cdn.simpleicons.org/googlechrome/1f6feb" /></a>
-  <a href="https://www.linkedin.com/in/joelorbit"><img alt="LinkedIn" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>
-  <a href="https://x.com/joelorbit"><img alt="X" width="32" src="https://cdn.simpleicons.org/x/181717" /></a>
+  <a href="https://www.linkedin.com/in/joelorbit"><img alt="LinkedIn" width="32" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/joelorbit"><img alt="X" width="32" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/joelorbit"><img alt="Instagram" width="32" src="https://cdn.simpleicons.org/instagram/E4405F" /></a>
   <a href="mailto:abitieyuel@gmail.com"><img alt="Email" width="32" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>
 </p>
