@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joelorbit&color=1f6feb&style=flat-square" alt="Profile views" />
 </p>
+
 <table align="center" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="middle">
@@ -31,8 +32,10 @@ I'm a software engineer based in Ethiopia, currently building things at Addis-pa
 - The occasional Neovim config rabbit hole
 
 ### GitHub
+
 <p align="center">
   <img src="/metrics.plugin.languages.svg" alt="Most used languages" width="49%" />
+</p>
 <p align="center">
   <img src="/metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" width="98%" />
 </p>
@@ -57,4 +60,3 @@ I'm a software engineer based in Ethiopia, currently building things at Addis-pa
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
