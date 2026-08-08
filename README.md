@@ -13,8 +13,6 @@
   </tr>
 </table>
 
-<h3 align="center">Software Engineer · Full-Stack Developer · AI Enthusiast</h3>
-
 <p align="center">
   <a href="https://eyuel.me"><img src="https://img.shields.io/badge/Website-eyuel.me-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/joelorbit"><img src="https://img.shields.io/badge/LinkedIn-joelorbit-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
