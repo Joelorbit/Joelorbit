@@ -19,11 +19,9 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: false
           repositories_forks: false
-          config_display: horizontal
-          config_animated: true
+          config_animations: yes
           config_timezone: Africa/Addis_Ababa
           config_twemoji: true
-          config_theme: github_dark
 
   languages:
     runs-on: ubuntu-latest
@@ -40,7 +38,6 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 10
           config_timezone: Africa/Addis_Ababa
-          config_theme: github_dark
 
   achievements:
     runs-on: ubuntu-latest
@@ -56,7 +53,6 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
           plugin_achievements_only: pair-extraordinaire, yolo, pull-shark, quickdraw
-          config_theme: github_dark
 
   isocalendar:
     runs-on: ubuntu-latest
@@ -70,9 +66,8 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          config_animated: yes
+          config_animations: yes
           config_timezone: Africa/Addis_Ababa
-          config_theme: github_dark
 
   habits:
     runs-on: ubuntu-latest
@@ -89,4 +84,3 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
           config_timezone: Africa/Addis_Ababa
-          config_theme: github_dark
