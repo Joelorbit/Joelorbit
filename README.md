@@ -8,17 +8,17 @@
       <h3 align="center">Software Engineer · Full-Stack Developer · AI Enthusiast</h3>
     </td>
     <td align="right" valign="bottom">
-      <img width="340" alt="banner" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBxYW0xNm12emZxNWJmYmNjdm5jcHU0M2IzazdwdGdsbzBnOXlmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" />
+      <img width="180" alt="banner" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBxYW0xNm12emZxNWJmYmNjdm5jcHU0M2IzazdwdGdsbzBnOXlmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://eyuel.me"><img src="https://img.shields.io/badge/Website-eyuel.me-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/joelorbit"><img src="https://img.shields.io/badge/LinkedIn-joelorbit-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/joelorbit"><img src="https://img.shields.io/badge/X-%40joelorbit-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.instagram.com/joelorbit"><img src="https://img.shields.io/badge/Instagram-%40joelorbit-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:abitieyuel@gmail.com"><img src="https://img.shields.io/badge/Email-abitieyuel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://eyuel.me"><img alt="Website" src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/joelorbit"><img alt="LinkedIn" src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/joelorbit"><img alt="X" src="https://img.shields.io/badge/-181717?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/joelorbit"><img alt="Instagram" src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:abitieyuel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 I'm a software engineer based in Ethiopia, currently building things at Addis-pay. I work on web & mobile applications end to end and I'm getting deeper into Backend. Always learning, always shipping.
