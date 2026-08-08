@@ -28,7 +28,7 @@ I'm a software engineer based in Ethiopia, currently building things at Addis-pa
 
 - Full-stack web development with React, Node.js and TypeScript
 - Backends with Django, Express and Go
-- Databases and caches with MySQL, MongoDB and Redis
+- Databases and caches with Postgre-sql, MySQL, MongoDB and Redis
 - The occasional Neovim config rabbit hole
 
 ### GitHub
