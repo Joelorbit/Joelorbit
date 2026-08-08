@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joelorbit&color=1f6feb&style=flat-square" alt="Profile views" />
 </p>
-<p align="center">
-  <img alt="banner" width="800" src="PLACE_YOUR_GIF_URL_HERE" />
-</p>
+<img align="right" width="170" alt="banner" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBxYW0xNm12emZxNWJmYmNjdm5jcHU0M2IzazdwdGdsbzBnOXlmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" />
 
-<h1 align="center">Eyuel Getachew</h1>
+<h1 align="left">Eyuel Getachew</h1>
 <h3 align="center">Software Engineer · Full-Stack Developer · AI Enthusiast</h3>
 
 <p align="center">
