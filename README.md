@@ -22,25 +22,9 @@
   <a href="mailto:abitieyuel@gmail.com"><img alt="Email" width="32" src="icons/email.svg" /></a>
 </p>
 
-I'm a software engineer based in Ethiopia, currently building things at Addis-pay. I work on web & mobile applications end to end and I'm getting deeper into Backend. Always learning, always shipping.
+I'm a software engineer based in Ethiopia, I work on web & mobile applications end to end and I'm getting deeper into Backend.
 
-**What I do**
-
-- Full-stack web development with React, Node.js and TypeScript
-- Backends with Django, Express and Go
-- Databases and caches with Postgre-sql, MySQL, MongoDB and Redis
-- The occasional Neovim config rabbit hole
-
-### GitHub
-
-<p align="center">
-  <img src="/metrics.plugin.languages.svg" alt="Most used languages" width="49%" />
-</p>
-<p align="center">
-  <img src="/metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" width="98%" />
-</p>
-
-### Stack
+## Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -60,3 +44,13 @@ I'm a software engineer based in Ethiopia, currently building things at Addis-pa
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+## GitHub
+
+<p align="center">
+  <img src="/metrics.plugin.languages.svg" alt="Most used languages" width="49%" />
+</p>
+<p align="center">
+  <img src="/metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" width="98%" />
+</p>
+
+
