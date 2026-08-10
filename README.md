@@ -22,7 +22,12 @@
   <a href="mailto:abitieyuel@gmail.com"><img alt="Email" width="32" src="icons/email.svg" /></a>
 </p>
 
-I'm a software engineer based in Ethiopia, I work on web & mobile applications end to end and I'm getting deeper into Backend.
+<p>
+  I'm a <b>software engineer</b> based in <b>Ethiopia</b>,<br />
+  I work on <b>web & mobile applications end to end</b>.<br />
+  I'm getting deeper into <b>Backend</b>.
+</p>
+
 
 ## Stack
 
