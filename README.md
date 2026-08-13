@@ -14,7 +14,7 @@
   </tr>
 </table>
 <p align="center">
-   <b>Software Engineer</b> based in <b>Ethiopia</b> <br />
+   <b>Software Engineer</b> <br />
    Building seamless <b>web & mobile applications</b> end-to-end.<br />
    Currently diving deeper into <b>Backend System Design & Architecture</b>.
 </p>
