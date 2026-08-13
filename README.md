@@ -13,19 +13,10 @@
     </td>
   </tr>
 </table>
-
 <p align="center">
-  <a href="https://eyuel.me"><img alt="Website" width="32" src="icons/website.svg" /></a>
-  <a href="https://www.linkedin.com/in/joelorbit"><img alt="LinkedIn" width="32" src="icons/linkedin.svg" /></a>
-  <a href="https://x.com/joelorbit"><img alt="X" width="32" src="icons/x.svg" /></a>
-  <a href="https://www.instagram.com/joelorbit"><img alt="Instagram" width="32" src="icons/instagram.svg" /></a>
-  <a href="mailto:abitieyuel@gmail.com"><img alt="Email" width="32" src="icons/email.svg" /></a>
-</p>
-
-<p>
-  I'm a <b>software engineer</b> based in <b>Ethiopia</b>,<br />
-  I work on <b>web & mobile applications end to end</b>.<br />
-  I'm getting deeper into <b>Backend</b>.
+   <b>Software Engineer</b> based in <b>Ethiopia</b> <br />
+   Building seamless <b>web & mobile applications</b> end-to-end.<br />
+   Currently diving deeper into <b>Backend System Design & Architecture</b>.
 </p>
 
 
