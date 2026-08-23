@@ -25,7 +25,7 @@
   <img src="/metrics.plugin.languages.svg" alt="Most used languages" width="49%" />
 </p>
 <p align="center">
-  <img src="/metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" width="98%" />
+  <img src="/metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" width="70%" />
 </p>
 
 
