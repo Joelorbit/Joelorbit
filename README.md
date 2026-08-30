@@ -14,7 +14,7 @@
   </tr>
 </table>
 <p align="center">
-   <b>Building seamless <b>web & mobile applications</b> end-to-end.</b<br />
+   <b>Building seamless <b>Web & Mobile applications</b> end-to-end.</b<br />
 </p>
 
 <p align="center">
