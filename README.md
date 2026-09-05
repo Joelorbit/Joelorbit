@@ -6,7 +6,7 @@
   <tr>
     <td align="center" valign="middle">
       <h1 align="center">Eyuel Getachew</h1>
-      <h3 align="center">Software Engineer · Full-Stack Developer </h3>
+      <h3 align="center">Software Engineer · Full-Stack Developer.</h3>
     </td>
     <td align="right" valign="bottom">
       <img width="180" alt="banner" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBxYW0xNm12emZxNWJmYmNjdm5jcHU0M2IzazdwdGdsbzBnOXlmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" />
