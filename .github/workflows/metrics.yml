@@ -21,14 +21,14 @@ concurrency:
 jobs:
   languages-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 3
     permissions:
       contents: write
     steps:
       - name: Generate Languages Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: joelorbit
           template: classic
@@ -39,5 +39,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
+          repositories_batch: 20
           use_prebuilt_image: yes
+          debug: yes
           delay: 0
+
