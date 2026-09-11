@@ -21,6 +21,7 @@ concurrency:
 jobs:
   languages-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     permissions:
       contents: write
     steps:
@@ -38,6 +39,5 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
-          retries: 3
-          retries_delay: 300
-
+          use_prebuilt_image: yes
+          delay: 0
