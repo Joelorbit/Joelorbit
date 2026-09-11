@@ -17,5 +17,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelorbit&layout=compact&langs_count=8" alt="Most used languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Joelorbit&layout=pie&langs_count=30&theme=transparent">
 </div>
