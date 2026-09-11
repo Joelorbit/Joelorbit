@@ -17,5 +17,5 @@
 </div>
 
 <div align="center">
-  <img src="/metrics.plugin.languages.svg" alt="Most used languages" width="60%" />
+  <img src="metrics.plugin.languages.svg" alt="Most used languages" width="60%" />
 </div>
