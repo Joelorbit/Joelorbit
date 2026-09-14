@@ -4,7 +4,7 @@
   <br />
 
   <h1>Eyuel Getachew</h1>
-  <h3>Software Engineer & Full-Stack Developer</h3>
+  <h3>Software Engineer • Full-Stack Developer</h3>
   
   <p>
     Building seamless <b>Web & Mobile Applications</b>
