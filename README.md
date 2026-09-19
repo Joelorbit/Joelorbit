@@ -7,7 +7,7 @@
   <h3>Software Engineer • Full-Stack Developer</h3>
   
   <p>
-    Building seamless <b>Web & Mobile Applications</b>
+    I Build seamless <b>Web & Mobile Applications</b>
   </p>
 
   <p>
