@@ -11,8 +11,7 @@
   </p>
 
   <p>
-    <a href="https://eyuel.me">Portfolio</a> • 
-    <a href="https://t.me/eyuspace">Telegram</a>
+    <a href="https://eyuel.me">Portfolio</a> 
   </p>
 </div>
 
