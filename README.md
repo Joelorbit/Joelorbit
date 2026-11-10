@@ -9,10 +9,7 @@
   <p>
     I build seamless <b>Web & Mobile Applications</b>
   </p>
-
-  <p>
-    <a href="https://eyuel.me">Portfolio</a> 
-  </p>
+  
 </div>
 
 <div align="center">
